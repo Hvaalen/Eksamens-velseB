@@ -1,0 +1,12 @@
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\bin\Release\net9.0\ChairsLib.deps.json
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\bin\Release\net9.0\ChairsLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\bin\Release\net9.0\ChairsLib.pdb
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\refint\ChairsLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ChairsLib.pdb
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\Opgave B\ChairsLib\obj\Release\net9.0\ref\ChairsLib.dll
