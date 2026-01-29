@@ -1,0 +1,6 @@
+@ChairController_HostAddress = http://localhost:5263
+
+GET {{ChairController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
